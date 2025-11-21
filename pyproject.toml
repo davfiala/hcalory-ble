@@ -7,7 +7,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
   "aioesphomeapi>=27.0.2",
-  "hcalory-control==0.1.6",
+  "git+https://github.com/davfiala/hcalory-control@0.1.7",
   "homeassistant>=2025.2",
 ]
 
