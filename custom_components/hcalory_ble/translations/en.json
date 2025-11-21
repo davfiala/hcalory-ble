@@ -1,0 +1,4 @@
+{
+  "title": "HCalory BLE (socket)",
+  "description": "Integration using local hcalory_control daemon"
+}
