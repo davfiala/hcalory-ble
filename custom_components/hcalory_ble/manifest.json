@@ -1,0 +1,9 @@
+{
+  "domain": "hcalory_ble",
+  "name": "HCalory BLE (socket)",
+  "version": "0.1.0",
+  "documentation": "https://example.com/hcalory_ble",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": []
+}

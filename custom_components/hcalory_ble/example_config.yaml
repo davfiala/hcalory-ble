@@ -1,0 +1,6 @@
+
+# Example configuration (if using YAML or for reference in UI)
+hcalory_ble:
+  address: EC:B1:B6:05:FB:2A
+  socket_path: /tmp/hcalory-control-ec_b1_b6_05_fb_2a.sock
+  poll_interval: 1.0
